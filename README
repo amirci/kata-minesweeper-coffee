@@ -1,0 +1,9 @@
+Implementation of the Minsweeper Kata using Coffeescript.
+
+Kata definition: http://codingdojo.org/cgi-bin/wiki.pl?KataMinesweeper
+
+I'm using Jasmine-node to run the tests: https://github.com/mhevery/jasmine-node
+
+To run it do :
+  jasmine-node --coffee --verbose .
+
